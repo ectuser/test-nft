@@ -1,0 +1,18 @@
+{
+    "title": "Test metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Test",
+        },
+        "description": {
+            "type": "string",
+            "description": "Test",
+        },
+        "image": {
+            "type": "string",
+            "description": "Test",
+        }
+    }
+}
